@@ -1,4 +1,4 @@
-arn# Parrot
+# Parrot
 
 ## Objectives
 
